@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-0957fc23cc95cd7542147d008f9e5045ce068048.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-c10ace979ab7aca54f1cb2a5ef6e3650e9d6cf12.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-5557a736fdabba121159f0ab6e6f36a1a7d731bf.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-f93b73cb8396195a9363efc366443c0966e66fa2.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-54e7a9987e674aa48ef20bfea02372dafc80a58b.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-2911487029f6d8616497dc2f79f8b3354743d7c8.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-3916fd842cfc5a81dbcdf729d4df0fc7b8439d85.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-b31cc29ebf2268ac184b04abbbbc21f4bf73286b.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-bac1900a079a38bc7e62cdca821443fa6ad56a45.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-9adb0d563607c9626d5e0418a942afa330860a0c.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ff992c23bc33c7c92749c092c43cbddfdf4d65a1.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-f299e12218f45a155d8263a20f662a86e5bd634a.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-f4f434bcb32f2cc758602253000ebbe40e91c219.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-fe248d863bfb82998aaa55d77f25aae160f3f35f.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-5d5c03a29a8972149994f2a76a7f3f2c9bdea5de.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-0070ec7cc67670a1807a2df35a77f80d3f243d28.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-723b2941e049e280f9963f1f53ddf6ff95229ba5.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-e8229baedef68147d8d854706ee29c59f05faeb9.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-722eae8efd00fda0f9668148c8c19e40d40b5971.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b17642f8a8ab9bf4c84bc04c8ae13a6f466ee23c.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-2dffbc98ada87874a397cd0474d7400c12cf552c.jar" />
+    </item>
+    <item
+        jar="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/wangyanan/React/StudyRCT1/reactNativeTodo/android/app/build/intermediates/pre-dexed/debug/classes-ca5592dc450c19812f313ec73312abac5e3273aa.jar" />
+    </item>
+
+</items>
